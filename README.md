@@ -1,4 +1,4 @@
-##Practica 5
+## Practica 5
 
 Objeyivo de la practica:
 Instalar el software para compilar código para el microcontrolador STM32F103.
